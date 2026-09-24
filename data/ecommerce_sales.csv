@@ -1,0 +1,301 @@
+order_id,order_date,customer_id,customer_name,gender,age,city,state,product_category,product_name,quantity,unit_price,discount_pct,shipping_fee,total_amount,payment_method,device,acquisition_channel,order_status,delivery_days,rating,customer_type
+ORD100001,2025-10-01,CUST1066,Amit Sharma,Male,34,Hyderabad,Telangana,Electronics,Power Bank 20000mAh,1,2199,0,0,2199.0,Credit Card,Tablet,Organic Search,Delivered,2.0,5.0,New
+ORD100002,2025-10-01,CUST1064,Arjun Kulkarni,Male,29,Mumbai,Maharashtra,Beauty & Personal Care,Vitamin C Face Serum,2,699,30,0,978.6,Debit Card,Mobile,Paid Ads,Delivered,3.0,3.0,New
+ORD100003,2025-10-03,CUST1043,Imran Naidu,Male,27,Bengaluru,Karnataka,Home & Kitchen,Non-stick Cookware Set,1,4349,0,0,4349.0,Debit Card,Mobile,Organic Search,Cancelled,,,New
+ORD100004,2025-10-04,CUST1066,Amit Sharma,Male,34,Hyderabad,Telangana,Fashion,Running Shoes,2,5649,10,0,10168.2,Debit Card,Mobile,Organic Search,Delivered,5.0,4.0,Returning
+ORD100005,2025-10-05,CUST1103,Anjali Kulkarni,Female,25,Hyderabad,Telangana,Electronics,Bluetooth Speaker,1,2299,10,0,2069.1,Cash on Delivery,Mobile,Organic Search,Delivered,5.0,4.0,New
+ORD100006,2025-10-05,CUST1049,Isha Kulkarni,Female,23,Bengaluru,Karnataka,Home & Kitchen,LED Desk Lamp,1,649,0,0,649.0,UPI,Mobile,Paid Ads,Returned,3.0,2.0,New
+ORD100007,2025-10-07,CUST1020,Neha Das,Female,29,Kolkata,West Bengal,Fashion,Women's Kurti,1,1199,5,0,1139.05,Cash on Delivery,Mobile,Organic Search,Delivered,5.0,5.0,New
+ORD100008,2025-10-08,CUST1039,Arjun Verma,Male,33,Pune,Maharashtra,Electronics,Power Bank 20000mAh,1,1999,20,0,1599.2,UPI,Mobile,Social Media,Delivered,2.0,5.0,New
+ORD100009,2025-10-12,CUST1041,Neha Gupta,Female,39,Ahmedabad,Gujarat,Grocery & Gourmet,Organic Honey 500g,3,399,10,0,1077.3,Credit Card,Mobile,Email Campaign,Delivered,4.0,5.0,New
+ORD100010,2025-10-12,CUST1014,Shreya Verma,Female,29,Pune,Maharashtra,Electronics,Smartwatch,1,6149,10,0,5534.1,Credit Card,Mobile,Direct,Delivered,2.0,4.0,New
+ORD100011,2025-10-13,CUST1016,Diya Das,Female,37,Kolkata,West Bengal,Grocery & Gourmet,Basmati Rice 5kg,1,649,20,0,519.2,UPI,Mobile,Social Media,Delivered,3.0,4.0,New
+ORD100012,2025-10-13,CUST1075,Aarav Patel,Male,34,Delhi,Delhi,Electronics,Smartwatch,1,4149,15,0,3526.65,Cash on Delivery,Desktop,Email Campaign,Delivered,5.0,4.0,New
+ORD100013,2025-10-13,CUST1035,Diya Reddy,Female,58,Delhi,Delhi,Beauty & Personal Care,Perfume 100ml,3,699,15,0,1782.45,UPI,Desktop,Email Campaign,Delivered,5.0,,New
+ORD100014,2025-10-14,CUST1105,Riya Patel,Female,24,Pune,Maharashtra,Electronics,Smartwatch,1,11649,20,0,9319.2,Cash on Delivery,Mobile,Email Campaign,Delivered,3.0,4.0,New
+ORD100015,2025-10-14,CUST1024,Manish Verma,Male,18,Mumbai,Maharashtra,Fashion,Men's Casual Shirt,2,799,20,0,1278.4,UPI,Mobile,Paid Ads,Delivered,2.0,5.0,New
+ORD100016,2025-10-15,CUST1011,Aditya Kulkarni,Male,36,Pune,Maharashtra,Fashion,Sunglasses,2,899,20,0,1438.4,Credit Card,Mobile,Organic Search,Delivered,4.0,4.0,New
+ORD100017,2025-10-15,CUST1084,Ananya Reddy,Female,26,Chennai,Tamil Nadu,Books & Stationery,Fountain Pen Set,1,1299,15,0,1104.15,Debit Card,Mobile,Referral,Delivered,2.0,4.0,New
+ORD100018,2025-10-16,CUST1095,Ananya Verma,Female,43,Hyderabad,Telangana,Fashion,Men's Casual Shirt,1,1449,20,0,1159.2,UPI,Mobile,Organic Search,Delivered,5.0,,New
+ORD100019,2025-10-16,CUST1030,Rohan Verma,Male,29,Chennai,Tamil Nadu,Grocery & Gourmet,Almonds 1kg,3,749,40,0,1348.2,Credit Card,Mobile,Organic Search,Delivered,4.0,5.0,New
+ORD100020,2025-10-16,CUST1020,Neha Das,Female,29,Kolkata,West Bengal,Home & Kitchen,Non-stick Cookware Set,2,4999,0,0,9998.0,Cash on Delivery,Desktop,Organic Search,Delivered,4.0,2.0,Returning
+ORD100021,2025-10-16,CUST1018,Rohan Singh,Male,21,Jaipur,Rajasthan,Electronics,Bluetooth Speaker,1,5199,20,0,4159.2,UPI,Tablet,Social Media,Delivered,8.0,3.0,New
+ORD100022,2025-10-17,CUST1057,Suresh Singh,Male,48,Visakhapatnam,Andhra Pradesh,Electronics,Smartwatch,2,5699,5,0,10828.1,Cash on Delivery,Desktop,Organic Search,Delivered,3.0,5.0,New
+ORD100023,2025-10-17,CUST1050,Meera Chowdhury,Female,30,Delhi,Delhi,Books & Stationery,Fountain Pen Set,2,949,30,0,1328.6,Credit Card,Mobile,Social Media,Delivered,3.0,4.0,New
+ORD100024,2025-10-18,CUST1027,Suresh Nair,Male,28,Hyderabad,Telangana,Electronics,Power Bank 20000mAh,1,1299,15,0,1104.15,UPI,Mobile,Direct,Delivered,5.0,,New
+ORD100025,2025-10-18,CUST1007,Shreya Iyer,Female,35,Delhi,Delhi,Electronics,Power Bank 20000mAh,2,1849,40,0,2218.8,UPI,Mobile,Direct,Delivered,4.0,2.0,New
+ORD100026,2025-10-19,CUST1051,Aditya Iyer,Male,37,Hyderabad,Telangana,Home & Kitchen,Air Fryer,1,7549,30,0,5284.3,UPI,Mobile,Social Media,Delivered,4.0,4.0,New
+ORD100027,2025-10-19,CUST1106,Vivaan Joshi,Male,19,Indore,Madhya Pradesh,Grocery & Gourmet,Organic Honey 500g,3,349,20,0,837.6,Credit Card,Mobile,Paid Ads,Delivered,6.0,5.0,New
+ORD100028,2025-10-21,CUST1071,Diya Sharma,Female,18,Kochi,Kerala,Electronics,Bluetooth Speaker,1,5699,10,0,5129.1,Wallet,Mobile,Social Media,Delivered,6.0,4.0,New
+ORD100029,2025-10-22,CUST1054,Sai Reddy,Male,27,Kochi,Kerala,Fashion,Running Shoes,1,1849,10,0,1664.1,Cash on Delivery,Mobile,Organic Search,Delivered,6.0,4.0,New
+ORD100030,2025-10-22,CUST1013,Divya Patel,Female,32,Bengaluru,Karnataka,Sports & Fitness,Yoga Mat,1,1099,15,0,934.15,Debit Card,Mobile,Direct,Delivered,2.0,4.0,New
+ORD100031,2025-10-22,CUST1026,Nikhil Chowdhury,Male,38,Pune,Maharashtra,Fashion,Sunglasses,2,1849,20,0,2958.4,UPI,Mobile,Referral,Delivered,3.0,5.0,New
+ORD100032,2025-10-25,CUST1032,Manish Patel,Male,21,Hyderabad,Telangana,Books & Stationery,Notebook Pack (5),1,499,10,49,498.1,Credit Card,Desktop,Paid Ads,Delivered,5.0,4.0,New
+ORD100033,2025-10-25,CUST1085,Ananya Mehta,Female,34,Delhi,Delhi,Beauty & Personal Care,Vitamin C Face Serum,1,499,20,49,448.2,Credit Card,Desktop,Organic Search,Delivered,3.0,3.0,New
+ORD100034,2025-10-25,CUST1095,Ananya Verma,Female,43,Hyderabad,Telangana,Home & Kitchen,Mixer Grinder,1,5149,30,0,3604.3,UPI,Mobile,Social Media,Delivered,3.0,4.0,Returning
+ORD100035,2025-10-26,CUST1098,Nikhil Kulkarni,Male,33,Hyderabad,Telangana,Fashion,Sunglasses,1,2799,15,0,2379.15,Credit Card,Mobile,Paid Ads,Returned,2.0,1.0,New
+ORD100036,2025-10-26,CUST1109,Lakshmi Khan,Female,30,Ahmedabad,Gujarat,Grocery & Gourmet,Green Tea (100 bags),2,399,30,0,558.6,Cash on Delivery,Mobile,Organic Search,Delivered,5.0,5.0,New
+ORD100037,2025-10-26,CUST1108,Pooja Patel,Female,27,Hyderabad,Telangana,Electronics,Power Bank 20000mAh,1,1799,15,0,1529.15,UPI,Desktop,Paid Ads,Delivered,5.0,3.0,New
+ORD100038,2025-10-27,CUST1105,Riya Patel,Female,24,Pune,Maharashtra,Grocery & Gourmet,Basmati Rice 5kg,3,849,15,0,2164.95,UPI,Mobile,Social Media,Delivered,4.0,5.0,Returning
+ORD100039,2025-10-27,CUST1008,Suresh Verma,Male,28,Pune,Maharashtra,Electronics,Bluetooth Speaker,1,2199,40,0,1319.4,UPI,Desktop,Organic Search,Delivered,2.0,3.0,New
+ORD100040,2025-10-27,CUST1014,Shreya Verma,Female,29,Pune,Maharashtra,Grocery & Gourmet,Organic Honey 500g,2,299,30,49,467.6,Credit Card,Mobile,Organic Search,Delivered,5.0,4.0,Returning
+ORD100041,2025-10-28,CUST1032,Manish Patel,Male,21,Hyderabad,Telangana,Books & Stationery,Bestselling Novel,1,499,30,49,398.3,UPI,Mobile,Email Campaign,Delivered,4.0,5.0,Returning
+ORD100042,2025-10-28,CUST1062,Amit Iyer,Male,22,Bengaluru,Karnataka,Books & Stationery,Bestselling Novel,1,249,25,49,235.75,Credit Card,Desktop,Referral,Delivered,2.0,4.0,New
+ORD100043,2025-10-30,CUST1011,Aditya Kulkarni,Male,36,Pune,Maharashtra,Beauty & Personal Care,Vitamin C Face Serum,1,1299,15,0,1104.15,UPI,Mobile,Organic Search,Delivered,2.0,5.0,Returning
+ORD100044,2025-10-30,CUST1092,Swathi Naidu,Female,39,Ahmedabad,Gujarat,Electronics,Bluetooth Speaker,1,3499,25,0,2624.25,UPI,Mobile,Direct,Delivered,6.0,4.0,New
+ORD100045,2025-10-31,CUST1068,Imran Rao,Male,25,Lucknow,Uttar Pradesh,Fashion,Sunglasses,2,1249,15,0,2123.3,UPI,Mobile,Paid Ads,Cancelled,,,New
+ORD100046,2025-10-31,CUST1060,Karthik Rao,Male,27,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,1,5299,10,0,4769.1,Cash on Delivery,Mobile,Email Campaign,Cancelled,,,New
+ORD100047,2025-11-01,CUST1016,Diya Das,Female,37,Kolkata,West Bengal,Books & Stationery,Fountain Pen Set,2,449,40,0,538.8,Net Banking,Desktop,Paid Ads,Delivered,5.0,4.0,Returning
+ORD100048,2025-11-02,CUST1026,Nikhil Chowdhury,Male,38,Pune,Maharashtra,Fashion,Running Shoes,1,2149,20,0,1719.2,Cash on Delivery,Mobile,Paid Ads,Delivered,4.0,5.0,Returning
+ORD100049,2025-11-02,CUST1016,Diya Das,Female,37,Kolkata,West Bengal,Beauty & Personal Care,Perfume 100ml,1,2349,25,0,1761.75,UPI,Mobile,Social Media,Delivered,2.0,5.0,Returning
+ORD100050,2025-11-02,CUST1093,Manish Chowdhury,Male,39,Pune,Maharashtra,Grocery & Gourmet,Basmati Rice 5kg,2,499,30,0,698.6,Cash on Delivery,Mobile,Paid Ads,Delivered,4.0,5.0,New
+ORD100051,2025-11-02,CUST1064,Arjun Kulkarni,Male,29,Mumbai,Maharashtra,Fashion,Denim Jeans,2,2149,30,0,3008.6,UPI,Desktop,Email Campaign,Cancelled,,,Returning
+ORD100052,2025-11-03,CUST1082,Vikram Joshi,Male,18,Hyderabad,Telangana,Home & Kitchen,Cotton Bedsheet Set,2,1349,0,0,2698.0,Net Banking,Mobile,Paid Ads,Delivered,2.0,2.0,New
+ORD100053,2025-11-04,CUST1032,Manish Patel,Male,21,Hyderabad,Telangana,Books & Stationery,Fountain Pen Set,2,549,25,0,823.5,Wallet,Desktop,Referral,Delivered,5.0,1.0,Returning
+ORD100054,2025-11-04,CUST1038,Ananya Naidu,Female,22,Bengaluru,Karnataka,Books & Stationery,Fountain Pen Set,1,849,20,0,679.2,UPI,Mobile,Organic Search,Delivered,4.0,5.0,New
+ORD100055,2025-11-06,CUST1043,Imran Naidu,Male,27,Bengaluru,Karnataka,Grocery & Gourmet,Almonds 1kg,1,949,10,0,854.1,UPI,Mobile,Direct,Delivered,5.0,,Returning
+ORD100056,2025-11-07,CUST1085,Ananya Mehta,Female,34,Delhi,Delhi,Electronics,Wireless Earbuds,1,4299,25,0,3224.25,Credit Card,Desktop,Social Media,Delivered,2.0,5.0,Returning
+ORD100057,2025-11-07,CUST1085,Ananya Mehta,Female,34,Delhi,Delhi,Fashion,Men's Casual Shirt,2,849,15,0,1443.3,Cash on Delivery,Mobile,Referral,Returned,3.0,1.0,Returning
+ORD100058,2025-11-08,CUST1020,Neha Das,Female,29,Kolkata,West Bengal,Sports & Fitness,Badminton Racket,1,2399,10,0,2159.1,Debit Card,Mobile,Email Campaign,Delivered,2.0,4.0,Returning
+ORD100059,2025-11-08,CUST1104,Suresh Rao,Male,32,Pune,Maharashtra,Beauty & Personal Care,Hair Dryer,1,2199,25,0,1649.25,Credit Card,Mobile,Organic Search,Delivered,4.0,2.0,New
+ORD100060,2025-11-09,CUST1013,Divya Patel,Female,32,Bengaluru,Karnataka,Fashion,Women's Kurti,1,1999,30,0,1399.3,Credit Card,Mobile,Direct,Delivered,3.0,4.0,Returning
+ORD100061,2025-11-11,CUST1098,Nikhil Kulkarni,Male,33,Hyderabad,Telangana,Home & Kitchen,LED Desk Lamp,1,1099,0,0,1099.0,Credit Card,Mobile,Direct,Delivered,4.0,5.0,Returning
+ORD100062,2025-11-13,CUST1012,Pooja Das,Female,33,Mumbai,Maharashtra,Fashion,Running Shoes,1,2699,0,0,2699.0,UPI,Mobile,Organic Search,Delivered,2.0,5.0,New
+ORD100063,2025-11-14,CUST1028,Suresh Iyer,Male,34,Mumbai,Maharashtra,Grocery & Gourmet,Organic Honey 500g,1,449,10,49,453.1,Cash on Delivery,Mobile,Paid Ads,Delivered,2.0,4.0,New
+ORD100064,2025-11-17,CUST1092,Swathi Naidu,Female,39,Ahmedabad,Gujarat,Sports & Fitness,Dumbbell Set 10kg,1,1349,0,0,1349.0,Wallet,Mobile,Referral,Delivered,8.0,5.0,Returning
+ORD100065,2025-11-21,CUST1017,Shreya Nair,Female,27,Hyderabad,Telangana,Sports & Fitness,Dumbbell Set 10kg,1,1349,20,0,1079.2,Wallet,Desktop,Paid Ads,Delivered,5.0,5.0,New
+ORD100066,2025-11-22,CUST1044,Imran Chowdhury,Male,46,Lucknow,Uttar Pradesh,Fashion,Men's Casual Shirt,1,1349,10,0,1214.1,UPI,Mobile,Organic Search,Delivered,4.0,5.0,New
+ORD100067,2025-11-24,CUST1048,Vivaan Kulkarni,Male,28,Bengaluru,Karnataka,Electronics,Smartwatch,1,7799,15,0,6629.15,UPI,Mobile,Referral,Delivered,5.0,,New
+ORD100068,2025-11-25,CUST1025,Karthik Chowdhury,Male,23,Lucknow,Uttar Pradesh,Fashion,Denim Jeans,1,999,0,0,999.0,Credit Card,Mobile,Organic Search,Delivered,3.0,5.0,New
+ORD100069,2025-11-25,CUST1078,Anjali Khan,Female,35,Mumbai,Maharashtra,Books & Stationery,Notebook Pack (5),1,199,20,49,208.2,Debit Card,Desktop,Email Campaign,Delivered,5.0,3.0,New
+ORD100070,2025-11-26,CUST1093,Manish Chowdhury,Male,39,Pune,Maharashtra,Grocery & Gourmet,Organic Honey 500g,2,349,5,0,663.1,UPI,Desktop,Organic Search,Delivered,3.0,,Returning
+ORD100071,2025-11-28,CUST1095,Ananya Verma,Female,43,Hyderabad,Telangana,Fashion,Running Shoes,2,4849,15,0,8243.3,Credit Card,Mobile,Organic Search,Delivered,4.0,,Returning
+ORD100072,2025-11-29,CUST1035,Diya Reddy,Female,58,Delhi,Delhi,Electronics,Wireless Mouse,1,1199,0,0,1199.0,Cash on Delivery,Mobile,Direct,Delivered,2.0,3.0,Returning
+ORD100073,2025-11-29,CUST1059,Manish Reddy,Male,26,Ahmedabad,Gujarat,Grocery & Gourmet,Basmati Rice 5kg,4,799,20,0,2556.8,Cash on Delivery,Mobile,Email Campaign,Delivered,3.0,2.0,New
+ORD100074,2025-11-30,CUST1025,Karthik Chowdhury,Male,23,Lucknow,Uttar Pradesh,Fashion,Denim Jeans,2,1199,0,0,2398.0,Credit Card,Mobile,Direct,Delivered,6.0,4.0,Returning
+ORD100075,2025-12-06,CUST1025,Karthik Chowdhury,Male,23,Lucknow,Uttar Pradesh,Beauty & Personal Care,Vitamin C Face Serum,1,499,5,49,523.05,Cash on Delivery,Mobile,Paid Ads,Delivered,5.0,3.0,Returning
+ORD100076,2025-12-13,CUST1016,Diya Das,Female,37,Kolkata,West Bengal,Fashion,Running Shoes,1,6599,10,0,5939.1,Debit Card,Mobile,Organic Search,Delivered,4.0,3.0,Returning
+ORD100077,2025-12-14,CUST1103,Anjali Kulkarni,Female,25,Hyderabad,Telangana,Home & Kitchen,Non-stick Cookware Set,1,2349,20,0,1879.2,Wallet,Mobile,Organic Search,Delivered,5.0,4.0,Returning
+ORD100078,2025-12-14,CUST1096,Karthik Khan,Male,36,Mumbai,Maharashtra,Sports & Fitness,Cricket Bat,1,1699,10,0,1529.1,UPI,Mobile,Social Media,Cancelled,,,New
+ORD100079,2025-12-15,CUST1085,Ananya Mehta,Female,34,Delhi,Delhi,Fashion,Running Shoes,1,4349,0,0,4349.0,UPI,Mobile,Social Media,Delivered,3.0,3.0,Returning
+ORD100080,2025-12-17,CUST1057,Suresh Singh,Male,48,Visakhapatnam,Andhra Pradesh,Fashion,Women's Kurti,1,2099,10,0,1889.1,Credit Card,Mobile,Paid Ads,Delivered,3.0,4.0,Returning
+ORD100081,2025-12-17,CUST1053,Pranav Das,Male,20,Pune,Maharashtra,Grocery & Gourmet,Almonds 1kg,2,599,15,0,1018.3,Wallet,Mobile,Social Media,Delivered,5.0,5.0,New
+ORD100082,2025-12-19,CUST1058,Isha Das,Female,26,Delhi,Delhi,Home & Kitchen,Non-stick Cookware Set,1,1849,30,0,1294.3,Credit Card,Desktop,Social Media,Cancelled,,,New
+ORD100083,2025-12-20,CUST1059,Manish Reddy,Male,26,Ahmedabad,Gujarat,Home & Kitchen,Air Fryer,1,6599,5,0,6269.05,UPI,Mobile,Direct,Delivered,8.0,3.0,Returning
+ORD100084,2025-12-21,CUST1046,Meera Verma,Female,35,Mumbai,Maharashtra,Home & Kitchen,LED Desk Lamp,1,699,30,49,538.3,Credit Card,Mobile,Direct,Delivered,5.0,5.0,New
+ORD100085,2025-12-21,CUST1014,Shreya Verma,Female,29,Pune,Maharashtra,Electronics,Power Bank 20000mAh,1,1249,10,0,1124.1,UPI,Mobile,Social Media,Delivered,3.0,5.0,Returning
+ORD100086,2025-12-21,CUST1013,Divya Patel,Female,32,Bengaluru,Karnataka,Beauty & Personal Care,Hair Dryer,2,1649,20,0,2638.4,UPI,Mobile,Organic Search,Delivered,3.0,4.0,Returning
+ORD100087,2025-12-21,CUST1105,Riya Patel,Female,24,Pune,Maharashtra,Fashion,Denim Jeans,2,1149,40,0,1378.8,Wallet,Mobile,Organic Search,Delivered,4.0,5.0,Returning
+ORD100088,2025-12-22,CUST1051,Aditya Iyer,Male,37,Hyderabad,Telangana,Home & Kitchen,LED Desk Lamp,1,649,0,0,649.0,UPI,Mobile,Organic Search,Delivered,4.0,2.0,Returning
+ORD100089,2025-12-22,CUST1105,Riya Patel,Female,24,Pune,Maharashtra,Electronics,Bluetooth Speaker,1,2199,15,0,1869.15,UPI,Mobile,Paid Ads,Delivered,3.0,3.0,Returning
+ORD100090,2025-12-23,CUST1016,Diya Das,Female,37,Kolkata,West Bengal,Grocery & Gourmet,Green Tea (100 bags),2,449,15,0,763.3,Cash on Delivery,Mobile,Paid Ads,Delivered,5.0,5.0,Returning
+ORD100091,2025-12-23,CUST1062,Amit Iyer,Male,22,Bengaluru,Karnataka,Books & Stationery,Fountain Pen Set,1,1399,40,0,839.4,Debit Card,Mobile,Paid Ads,Delivered,3.0,,Returning
+ORD100092,2025-12-23,CUST1021,Meera Patel,Female,28,Hyderabad,Telangana,Books & Stationery,Fountain Pen Set,1,1349,15,0,1146.65,Credit Card,Mobile,Social Media,Delivered,4.0,,New
+ORD100093,2025-12-24,CUST1026,Nikhil Chowdhury,Male,38,Pune,Maharashtra,Fashion,Men's Casual Shirt,2,999,15,0,1698.3,UPI,Mobile,Organic Search,Delivered,5.0,4.0,Returning
+ORD100094,2025-12-24,CUST1005,Fatima Reddy,Female,31,Ahmedabad,Gujarat,Fashion,Denim Jeans,2,1749,15,0,2973.3,Cash on Delivery,Mobile,Email Campaign,Delivered,6.0,5.0,New
+ORD100095,2025-12-24,CUST1013,Divya Patel,Female,32,Bengaluru,Karnataka,Electronics,Bluetooth Speaker,1,4049,40,0,2429.4,Net Banking,Mobile,Email Campaign,Returned,5.0,2.0,Returning
+ORD100096,2025-12-25,CUST1100,Aarav Naidu,Male,29,Kolkata,West Bengal,Sports & Fitness,Yoga Mat,1,949,25,0,711.75,UPI,Mobile,Email Campaign,Delivered,2.0,5.0,New
+ORD100097,2025-12-25,CUST1033,Rohan Naidu,Male,19,Chennai,Tamil Nadu,Beauty & Personal Care,Hair Dryer,1,1249,40,0,749.4,Cash on Delivery,Mobile,Organic Search,Delivered,3.0,4.0,New
+ORD100098,2025-12-26,CUST1066,Amit Sharma,Male,34,Hyderabad,Telangana,Grocery & Gourmet,Basmati Rice 5kg,1,599,20,49,528.2,UPI,Desktop,Organic Search,Delivered,5.0,5.0,Returning
+ORD100099,2025-12-27,CUST1049,Isha Kulkarni,Female,23,Bengaluru,Karnataka,Electronics,Wireless Earbuds,1,2349,5,0,2231.55,UPI,Mobile,Social Media,Delivered,4.0,5.0,Returning
+ORD100100,2025-12-27,CUST1042,Arjun Chowdhury,Male,30,Mumbai,Maharashtra,Home & Kitchen,Cotton Bedsheet Set,1,799,15,0,679.15,Debit Card,Mobile,Social Media,Delivered,3.0,4.0,New
+ORD100101,2025-12-27,CUST1059,Manish Reddy,Male,26,Ahmedabad,Gujarat,Home & Kitchen,LED Desk Lamp,1,849,40,0,509.4,UPI,Mobile,Referral,Delivered,7.0,4.0,Returning
+ORD100102,2025-12-28,CUST1018,Rohan Singh,Male,21,Jaipur,Rajasthan,Grocery & Gourmet,Organic Honey 500g,2,299,10,0,538.2,Cash on Delivery,Mobile,Email Campaign,Delivered,5.0,5.0,Returning
+ORD100103,2025-12-28,CUST1109,Lakshmi Khan,Female,30,Ahmedabad,Gujarat,Books & Stationery,Notebook Pack (5),1,499,20,49,448.2,Credit Card,Mobile,Social Media,Delivered,8.0,4.0,Returning
+ORD100104,2025-12-28,CUST1089,Suresh Naidu,Male,34,Pune,Maharashtra,Beauty & Personal Care,Hair Dryer,2,1099,25,0,1648.5,Net Banking,Mobile,Social Media,Delivered,2.0,5.0,New
+ORD100105,2025-12-28,CUST1082,Vikram Joshi,Male,18,Hyderabad,Telangana,Fashion,Denim Jeans,1,2449,0,0,2449.0,Credit Card,Mobile,Social Media,Delivered,2.0,5.0,Returning
+ORD100106,2025-12-28,CUST1050,Meera Chowdhury,Female,30,Delhi,Delhi,Fashion,Denim Jeans,1,1799,30,0,1259.3,Credit Card,Mobile,Social Media,Delivered,4.0,,Returning
+ORD100107,2025-12-29,CUST1015,Amit Mehta,Male,45,Hyderabad,Telangana,Fashion,Women's Kurti,1,2049,30,0,1434.3,UPI,Mobile,Organic Search,Cancelled,,,New
+ORD100108,2025-12-29,CUST1100,Aarav Naidu,Male,29,Kolkata,West Bengal,Fashion,Men's Casual Shirt,1,1999,10,0,1799.1,Cash on Delivery,Mobile,Social Media,Delivered,3.0,4.0,Returning
+ORD100109,2025-12-31,CUST1035,Diya Reddy,Female,58,Delhi,Delhi,Beauty & Personal Care,Hair Dryer,1,2699,20,0,2159.2,Net Banking,Mobile,Paid Ads,Returned,3.0,1.0,Returning
+ORD100110,2026-01-02,CUST1007,Shreya Iyer,Female,35,Delhi,Delhi,Electronics,Wireless Earbuds,1,4449,0,0,4449.0,UPI,Desktop,Organic Search,Cancelled,,,Returning
+ORD100111,2026-01-03,CUST1035,Diya Reddy,Female,58,Delhi,Delhi,Home & Kitchen,Non-stick Cookware Set,1,4249,10,0,3824.1,UPI,Mobile,Paid Ads,Delivered,3.0,5.0,Returning
+ORD100112,2026-01-03,CUST1087,Anjali Reddy,Female,45,Hyderabad,Telangana,Beauty & Personal Care,Beard Trimmer,1,1249,5,0,1186.55,UPI,Mobile,Social Media,Delivered,4.0,4.0,New
+ORD100113,2026-01-05,CUST1068,Imran Rao,Male,25,Lucknow,Uttar Pradesh,Electronics,Wireless Mouse,1,1399,10,0,1259.1,UPI,Mobile,Paid Ads,Delivered,8.0,2.0,Returning
+ORD100114,2026-01-06,CUST1083,Pooja Mehta,Female,25,Ahmedabad,Gujarat,Grocery & Gourmet,Green Tea (100 bags),1,499,10,49,498.1,Debit Card,Tablet,Organic Search,Delivered,3.0,1.0,New
+ORD100115,2026-01-11,CUST1087,Anjali Reddy,Female,45,Hyderabad,Telangana,Electronics,Smartwatch,1,9199,15,0,7819.15,UPI,Mobile,Social Media,Delivered,2.0,5.0,Returning
+ORD100116,2026-01-12,CUST1021,Meera Patel,Female,28,Hyderabad,Telangana,Fashion,Running Shoes,3,5249,5,0,14959.65,UPI,Mobile,Organic Search,Delivered,5.0,3.0,Returning
+ORD100117,2026-01-14,CUST1101,Aditya Sharma,Male,20,Chennai,Tamil Nadu,Grocery & Gourmet,Organic Honey 500g,3,299,0,0,897.0,Debit Card,Mobile,Paid Ads,Delivered,2.0,2.0,New
+ORD100118,2026-01-15,CUST1047,Pooja Nair,Female,19,Kochi,Kerala,Sports & Fitness,Badminton Racket,1,1949,25,0,1461.75,Credit Card,Desktop,Direct,Delivered,7.0,4.0,New
+ORD100119,2026-01-15,CUST1070,Swathi Singh,Female,21,Hyderabad,Telangana,Electronics,Wireless Earbuds,1,3149,20,0,2519.2,Credit Card,Mobile,Email Campaign,Cancelled,,,New
+ORD100120,2026-01-15,CUST1001,Divya Khan,Female,40,Jaipur,Rajasthan,Beauty & Personal Care,Vitamin C Face Serum,1,1049,25,0,786.75,UPI,Mobile,Paid Ads,Delivered,8.0,1.0,New
+ORD100121,2026-01-16,CUST1110,Neha Nair,Female,41,Chennai,Tamil Nadu,Beauty & Personal Care,Perfume 100ml,1,799,10,0,719.1,UPI,Mobile,Paid Ads,Delivered,5.0,4.0,New
+ORD100122,2026-01-16,CUST1030,Rohan Verma,Male,29,Chennai,Tamil Nadu,Beauty & Personal Care,Beard Trimmer,1,1699,5,0,1614.05,Credit Card,Mobile,Organic Search,Delivered,3.0,5.0,Returning
+ORD100123,2026-01-17,CUST1008,Suresh Verma,Male,28,Pune,Maharashtra,Fashion,Men's Casual Shirt,1,1749,25,0,1311.75,Credit Card,Mobile,Direct,Delivered,4.0,5.0,Returning
+ORD100124,2026-01-17,CUST1049,Isha Kulkarni,Female,23,Bengaluru,Karnataka,Sports & Fitness,Yoga Mat,1,949,10,0,854.1,Debit Card,Tablet,Paid Ads,Delivered,4.0,,Returning
+ORD100125,2026-01-17,CUST1014,Shreya Verma,Female,29,Pune,Maharashtra,Fashion,Running Shoes,3,1799,40,0,3238.2,UPI,Mobile,Organic Search,Delivered,5.0,4.0,Returning
+ORD100126,2026-01-18,CUST1015,Amit Mehta,Male,45,Hyderabad,Telangana,Sports & Fitness,Cricket Bat,1,1749,20,0,1399.2,Debit Card,Desktop,Organic Search,Delivered,3.0,4.0,Returning
+ORD100127,2026-01-18,CUST1069,Rahul Patel,Male,50,Bengaluru,Karnataka,Grocery & Gourmet,Almonds 1kg,3,949,20,0,2277.6,Wallet,Mobile,Paid Ads,Delivered,4.0,1.0,New
+ORD100128,2026-01-18,CUST1041,Neha Gupta,Female,39,Ahmedabad,Gujarat,Fashion,Denim Jeans,1,949,20,0,759.2,Credit Card,Tablet,Organic Search,Delivered,6.0,4.0,Returning
+ORD100129,2026-01-19,CUST1101,Aditya Sharma,Male,20,Chennai,Tamil Nadu,Fashion,Women's Kurti,1,1099,20,0,879.2,UPI,Mobile,Social Media,Delivered,5.0,5.0,Returning
+ORD100130,2026-01-19,CUST1033,Rohan Naidu,Male,19,Chennai,Tamil Nadu,Electronics,Wireless Mouse,1,1449,25,0,1086.75,UPI,Mobile,Direct,Delivered,4.0,2.0,Returning
+ORD100131,2026-01-20,CUST1080,Diya Nair,Female,21,Pune,Maharashtra,Electronics,Power Bank 20000mAh,1,1899,30,0,1329.3,UPI,Desktop,Organic Search,Delivered,2.0,5.0,New
+ORD100132,2026-01-21,CUST1049,Isha Kulkarni,Female,23,Bengaluru,Karnataka,Sports & Fitness,Cricket Bat,1,1399,0,0,1399.0,Credit Card,Desktop,Paid Ads,Delivered,5.0,4.0,Returning
+ORD100133,2026-01-21,CUST1072,Shreya Naidu,Female,27,Visakhapatnam,Andhra Pradesh,Beauty & Personal Care,Hair Dryer,1,1149,30,0,804.3,Wallet,Mobile,Referral,Returned,5.0,3.0,New
+ORD100134,2026-01-21,CUST1065,Lakshmi Patel,Female,30,Mumbai,Maharashtra,Fashion,Running Shoes,1,5649,10,0,5084.1,Cash on Delivery,Desktop,Social Media,Delivered,5.0,4.0,New
+ORD100135,2026-01-22,CUST1050,Meera Chowdhury,Female,30,Delhi,Delhi,Books & Stationery,Bestselling Novel,1,299,10,49,318.1,Wallet,Mobile,Direct,Delivered,4.0,5.0,Returning
+ORD100136,2026-01-22,CUST1105,Riya Patel,Female,24,Pune,Maharashtra,Home & Kitchen,LED Desk Lamp,1,899,15,0,764.15,Credit Card,Desktop,Referral,Delivered,4.0,,Returning
+ORD100137,2026-01-23,CUST1035,Diya Reddy,Female,58,Delhi,Delhi,Home & Kitchen,Mixer Grinder,1,3849,10,0,3464.1,Debit Card,Desktop,Social Media,Delivered,3.0,5.0,Returning
+ORD100138,2026-01-24,CUST1017,Shreya Nair,Female,27,Hyderabad,Telangana,Sports & Fitness,Yoga Mat,1,1199,25,0,899.25,Net Banking,Mobile,Direct,Delivered,2.0,5.0,Returning
+ORD100139,2026-01-24,CUST1074,Meera Rao,Female,18,Jaipur,Rajasthan,Fashion,Sunglasses,1,2249,10,0,2024.1,Credit Card,Desktop,Paid Ads,Delivered,7.0,2.0,New
+ORD100140,2026-01-25,CUST1092,Swathi Naidu,Female,39,Ahmedabad,Gujarat,Electronics,Bluetooth Speaker,1,3999,20,0,3199.2,Credit Card,Mobile,Paid Ads,Delivered,4.0,4.0,Returning
+ORD100141,2026-01-25,CUST1006,Isha Gupta,Female,30,Visakhapatnam,Andhra Pradesh,Books & Stationery,Notebook Pack (5),3,299,30,0,627.9,UPI,Mobile,Organic Search,Delivered,3.0,5.0,New
+ORD100142,2026-01-26,CUST1048,Vivaan Kulkarni,Male,28,Bengaluru,Karnataka,Home & Kitchen,Cotton Bedsheet Set,1,2399,30,0,1679.3,UPI,Mobile,Paid Ads,Delivered,3.0,5.0,Returning
+ORD100143,2026-01-27,CUST1097,Neha Reddy,Female,32,Indore,Madhya Pradesh,Beauty & Personal Care,Beard Trimmer,1,1699,15,0,1444.15,UPI,Mobile,Direct,Delivered,3.0,3.0,New
+ORD100144,2026-01-29,CUST1083,Pooja Mehta,Female,25,Ahmedabad,Gujarat,Fashion,Running Shoes,1,2849,20,0,2279.2,Credit Card,Mobile,Paid Ads,Delivered,4.0,1.0,Returning
+ORD100145,2026-01-31,CUST1109,Lakshmi Khan,Female,30,Ahmedabad,Gujarat,Fashion,Running Shoes,1,3749,15,0,3186.65,UPI,Mobile,Email Campaign,Delivered,4.0,5.0,Returning
+ORD100146,2026-01-31,CUST1059,Manish Reddy,Male,26,Ahmedabad,Gujarat,Fashion,Men's Casual Shirt,1,999,0,0,999.0,Cash on Delivery,Mobile,Paid Ads,Delivered,4.0,3.0,Returning
+ORD100147,2026-02-01,CUST1072,Shreya Naidu,Female,27,Visakhapatnam,Andhra Pradesh,Fashion,Denim Jeans,1,2549,0,0,2549.0,Cash on Delivery,Mobile,Paid Ads,Delivered,8.0,4.0,Returning
+ORD100148,2026-02-01,CUST1032,Manish Patel,Male,21,Hyderabad,Telangana,Books & Stationery,Bestselling Novel,2,549,10,0,988.2,UPI,Mobile,Direct,Delivered,3.0,3.0,Returning
+ORD100149,2026-02-03,CUST1105,Riya Patel,Female,24,Pune,Maharashtra,Fashion,Denim Jeans,2,2299,30,0,3218.6,Net Banking,Mobile,Referral,Delivered,3.0,2.0,Returning
+ORD100150,2026-02-04,CUST1037,Amit Rao,Male,30,Delhi,Delhi,Home & Kitchen,Non-stick Cookware Set,1,2249,0,0,2249.0,Debit Card,Desktop,Email Campaign,Delivered,2.0,3.0,New
+ORD100151,2026-02-07,CUST1082,Vikram Joshi,Male,18,Hyderabad,Telangana,Grocery & Gourmet,Basmati Rice 5kg,3,599,0,0,1797.0,Debit Card,Mobile,Referral,Delivered,2.0,4.0,Returning
+ORD100152,2026-02-07,CUST1043,Imran Naidu,Male,27,Bengaluru,Karnataka,Books & Stationery,Fountain Pen Set,1,1499,0,0,1499.0,Net Banking,Mobile,Organic Search,Delivered,4.0,4.0,Returning
+ORD100153,2026-02-07,CUST1063,Swathi Reddy,Female,28,Hyderabad,Telangana,Electronics,Wireless Earbuds,1,4499,0,0,4499.0,Credit Card,Mobile,Email Campaign,Cancelled,,,New
+ORD100154,2026-02-08,CUST1079,Riya Verma,Female,29,Ahmedabad,Gujarat,Fashion,Men's Casual Shirt,2,999,0,0,1998.0,Credit Card,Mobile,Paid Ads,Delivered,8.0,4.0,New
+ORD100155,2026-02-09,CUST1055,Aditya Khan,Male,44,Kolkata,West Bengal,Beauty & Personal Care,Vitamin C Face Serum,1,799,20,0,639.2,UPI,Mobile,Organic Search,Delivered,2.0,5.0,New
+ORD100156,2026-02-10,CUST1099,Manish Naidu,Male,25,Hyderabad,Telangana,Books & Stationery,Notebook Pack (5),1,349,0,49,398.0,Net Banking,Mobile,Social Media,Delivered,3.0,2.0,New
+ORD100157,2026-02-11,CUST1045,Sneha Naidu,Female,43,Delhi,Delhi,Fashion,Women's Kurti,2,1149,25,0,1723.5,Credit Card,Mobile,Email Campaign,Delivered,5.0,5.0,New
+ORD100158,2026-02-13,CUST1071,Diya Sharma,Female,18,Kochi,Kerala,Fashion,Running Shoes,1,3799,5,0,3609.05,Debit Card,Mobile,Organic Search,Delivered,3.0,2.0,Returning
+ORD100159,2026-02-14,CUST1035,Diya Reddy,Female,58,Delhi,Delhi,Fashion,Sunglasses,1,1249,5,0,1186.55,UPI,Mobile,Email Campaign,Delivered,2.0,,Returning
+ORD100160,2026-02-15,CUST1043,Imran Naidu,Male,27,Bengaluru,Karnataka,Fashion,Running Shoes,1,2699,25,0,2024.25,UPI,Tablet,Email Campaign,Returned,4.0,1.0,Returning
+ORD100161,2026-02-15,CUST1047,Pooja Nair,Female,19,Kochi,Kerala,Home & Kitchen,Cotton Bedsheet Set,2,849,0,0,1698.0,Cash on Delivery,Mobile,Direct,Delivered,8.0,3.0,Returning
+ORD100162,2026-02-17,CUST1013,Divya Patel,Female,32,Bengaluru,Karnataka,Fashion,Denim Jeans,1,2949,25,0,2211.75,Credit Card,Mobile,Social Media,Delivered,4.0,3.0,Returning
+ORD100163,2026-02-17,CUST1010,Manish Khan,Male,37,Bengaluru,Karnataka,Electronics,Wireless Mouse,1,1799,15,0,1529.15,UPI,Mobile,Organic Search,Delivered,2.0,,New
+ORD100164,2026-02-18,CUST1073,Divya Verma,Female,31,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,1,4449,10,0,4004.1,Cash on Delivery,Mobile,Social Media,Delivered,4.0,4.0,New
+ORD100165,2026-02-19,CUST1072,Shreya Naidu,Female,27,Visakhapatnam,Andhra Pradesh,Fashion,Denim Jeans,1,1399,30,0,979.3,UPI,Mobile,Social Media,Delivered,3.0,3.0,Returning
+ORD100166,2026-02-21,CUST1072,Shreya Naidu,Female,27,Visakhapatnam,Andhra Pradesh,Books & Stationery,Bestselling Novel,1,549,15,49,515.65,UPI,Mobile,Organic Search,Delivered,8.0,3.0,Returning
+ORD100167,2026-02-23,CUST1004,Pooja Kulkarni,Female,24,Delhi,Delhi,Fashion,Denim Jeans,3,2549,0,0,7647.0,UPI,Mobile,Email Campaign,Delivered,5.0,4.0,New
+ORD100168,2026-02-25,CUST1034,Kavya Sharma,Female,22,Chandigarh,Chandigarh,Electronics,Bluetooth Speaker,1,4349,25,0,3261.75,Net Banking,Desktop,Paid Ads,Delivered,5.0,5.0,New
+ORD100169,2026-02-26,CUST1020,Neha Das,Female,29,Kolkata,West Bengal,Home & Kitchen,LED Desk Lamp,1,549,0,0,549.0,Credit Card,Mobile,Email Campaign,Delivered,3.0,,Returning
+ORD100170,2026-03-01,CUST1085,Ananya Mehta,Female,34,Delhi,Delhi,Books & Stationery,Fountain Pen Set,2,649,10,0,1168.2,Wallet,Mobile,Paid Ads,Delivered,5.0,3.0,Returning
+ORD100171,2026-03-02,CUST1093,Manish Chowdhury,Male,39,Pune,Maharashtra,Home & Kitchen,Cotton Bedsheet Set,1,2049,15,0,1741.65,UPI,Desktop,Social Media,Delivered,2.0,,Returning
+ORD100172,2026-03-05,CUST1025,Karthik Chowdhury,Male,23,Lucknow,Uttar Pradesh,Sports & Fitness,Dumbbell Set 10kg,1,2349,15,0,1996.65,UPI,Mobile,Social Media,Delivered,7.0,,Returning
+ORD100173,2026-03-07,CUST1073,Divya Verma,Female,31,Pune,Maharashtra,Books & Stationery,Notebook Pack (5),1,399,0,49,448.0,Credit Card,Desktop,Organic Search,Delivered,3.0,5.0,Returning
+ORD100174,2026-03-08,CUST1014,Shreya Verma,Female,29,Pune,Maharashtra,Fashion,Women's Kurti,2,2449,10,0,4408.2,UPI,Mobile,Social Media,Cancelled,,,Returning
+ORD100175,2026-03-08,CUST1029,Rahul Kulkarni,Male,27,Pune,Maharashtra,Grocery & Gourmet,Almonds 1kg,2,899,15,0,1528.3,UPI,Desktop,Organic Search,Delivered,2.0,5.0,New
+ORD100176,2026-03-11,CUST1014,Shreya Verma,Female,29,Pune,Maharashtra,Beauty & Personal Care,Hair Dryer,1,2549,5,0,2421.55,Debit Card,Mobile,Organic Search,Delivered,2.0,4.0,Returning
+ORD100177,2026-03-11,CUST1031,Nikhil Singh,Male,44,Hyderabad,Telangana,Sports & Fitness,Yoga Mat,1,799,5,0,759.05,Wallet,Desktop,Paid Ads,Delivered,2.0,1.0,New
+ORD100178,2026-03-13,CUST1074,Meera Rao,Female,18,Jaipur,Rajasthan,Sports & Fitness,Cricket Bat,1,5549,10,0,4994.1,Debit Card,Desktop,Paid Ads,Delivered,7.0,1.0,Returning
+ORD100179,2026-03-15,CUST1099,Manish Naidu,Male,25,Hyderabad,Telangana,Fashion,Women's Kurti,1,899,10,0,809.1,Wallet,Mobile,Organic Search,Delivered,3.0,5.0,Returning
+ORD100180,2026-03-17,CUST1020,Neha Das,Female,29,Kolkata,West Bengal,Electronics,Wireless Mouse,1,1099,0,0,1099.0,Debit Card,Mobile,Social Media,Delivered,2.0,5.0,Returning
+ORD100181,2026-03-22,CUST1060,Karthik Rao,Male,27,Chennai,Tamil Nadu,Beauty & Personal Care,Vitamin C Face Serum,3,549,0,0,1647.0,Debit Card,Mobile,Referral,Delivered,3.0,4.0,Returning
+ORD100182,2026-03-22,CUST1077,Aditya Verma,Male,43,Mumbai,Maharashtra,Fashion,Denim Jeans,1,1449,0,0,1449.0,Credit Card,Mobile,Referral,Delivered,5.0,3.0,New
+ORD100183,2026-03-22,CUST1105,Riya Patel,Female,24,Pune,Maharashtra,Grocery & Gourmet,Green Tea (100 bags),4,399,0,0,1596.0,Net Banking,Desktop,Paid Ads,Cancelled,,,Returning
+ORD100184,2026-03-23,CUST1066,Amit Sharma,Male,34,Hyderabad,Telangana,Electronics,Wireless Earbuds,1,2499,0,0,2499.0,Cash on Delivery,Mobile,Paid Ads,Delivered,5.0,,Returning
+ORD100185,2026-03-24,CUST1026,Nikhil Chowdhury,Male,38,Pune,Maharashtra,Beauty & Personal Care,Vitamin C Face Serum,1,499,10,49,498.1,UPI,Mobile,Organic Search,Delivered,5.0,,Returning
+ORD100186,2026-03-26,CUST1069,Rahul Patel,Male,50,Bengaluru,Karnataka,Electronics,Power Bank 20000mAh,2,1599,25,0,2398.5,Debit Card,Mobile,Organic Search,Delivered,5.0,5.0,Returning
+ORD100187,2026-03-27,CUST1033,Rohan Naidu,Male,19,Chennai,Tamil Nadu,Electronics,Wireless Mouse,1,1999,15,0,1699.15,Cash on Delivery,Mobile,Organic Search,Delivered,4.0,2.0,Returning
+ORD100188,2026-03-28,CUST1108,Pooja Patel,Female,27,Hyderabad,Telangana,Home & Kitchen,Non-stick Cookware Set,1,2249,0,0,2249.0,UPI,Desktop,Paid Ads,Cancelled,,,Returning
+ORD100189,2026-04-02,CUST1042,Arjun Chowdhury,Male,30,Mumbai,Maharashtra,Electronics,Wireless Mouse,1,949,0,0,949.0,Credit Card,Mobile,Organic Search,Delivered,3.0,4.0,Returning
+ORD100190,2026-04-06,CUST1075,Aarav Patel,Male,34,Delhi,Delhi,Grocery & Gourmet,Basmati Rice 5kg,4,799,20,0,2556.8,UPI,Mobile,Organic Search,Delivered,4.0,1.0,Returning
+ORD100191,2026-04-06,CUST1004,Pooja Kulkarni,Female,24,Delhi,Delhi,Fashion,Sunglasses,2,2649,10,0,4768.2,UPI,Mobile,Social Media,Returned,5.0,1.0,Returning
+ORD100192,2026-04-08,CUST1042,Arjun Chowdhury,Male,30,Mumbai,Maharashtra,Fashion,Denim Jeans,2,2599,10,0,4678.2,UPI,Mobile,Social Media,Returned,5.0,2.0,Returning
+ORD100193,2026-04-11,CUST1095,Ananya Verma,Female,43,Hyderabad,Telangana,Fashion,Sunglasses,1,899,0,0,899.0,UPI,Mobile,Paid Ads,Delivered,2.0,4.0,Returning
+ORD100194,2026-04-12,CUST1067,Sai Mehta,Male,33,Kolkata,West Bengal,Home & Kitchen,Air Fryer,1,9449,0,0,9449.0,Credit Card,Tablet,Email Campaign,Delivered,3.0,5.0,New
+ORD100195,2026-04-12,CUST1048,Vivaan Kulkarni,Male,28,Bengaluru,Karnataka,Fashion,Women's Kurti,1,1499,15,0,1274.15,UPI,Mobile,Referral,Returned,5.0,2.0,Returning
+ORD100196,2026-04-12,CUST1103,Anjali Kulkarni,Female,25,Hyderabad,Telangana,Electronics,Bluetooth Speaker,1,3549,0,0,3549.0,Wallet,Mobile,Referral,Delivered,5.0,3.0,Returning
+ORD100197,2026-04-13,CUST1093,Manish Chowdhury,Male,39,Pune,Maharashtra,Beauty & Personal Care,Beard Trimmer,2,1999,5,0,3798.1,Debit Card,Mobile,Organic Search,Delivered,2.0,,Returning
+ORD100198,2026-04-15,CUST1033,Rohan Naidu,Male,19,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,1,2199,10,0,1979.1,Net Banking,Mobile,Social Media,Delivered,2.0,4.0,Returning
+ORD100199,2026-04-18,CUST1061,Harsh Singh,Male,18,Kolkata,West Bengal,Home & Kitchen,Air Fryer,1,9799,5,0,9309.05,UPI,Tablet,Referral,Delivered,2.0,4.0,New
+ORD100200,2026-04-19,CUST1053,Pranav Das,Male,20,Pune,Maharashtra,Electronics,Wireless Earbuds,1,1249,10,0,1124.1,Credit Card,Mobile,Social Media,Returned,2.0,3.0,Returning
+ORD100201,2026-04-19,CUST1069,Rahul Patel,Male,50,Bengaluru,Karnataka,Electronics,Wireless Mouse,1,1599,0,0,1599.0,Cash on Delivery,Mobile,Paid Ads,Delivered,3.0,5.0,Returning
+ORD100202,2026-04-20,CUST1034,Kavya Sharma,Female,22,Chandigarh,Chandigarh,Fashion,Men's Casual Shirt,1,1799,0,0,1799.0,UPI,Mobile,Social Media,Delivered,5.0,,Returning
+ORD100203,2026-04-20,CUST1024,Manish Verma,Male,18,Mumbai,Maharashtra,Home & Kitchen,Mixer Grinder,1,5549,10,0,4994.1,Credit Card,Mobile,Paid Ads,Delivered,4.0,3.0,Returning
+ORD100204,2026-04-20,CUST1099,Manish Naidu,Male,25,Hyderabad,Telangana,Home & Kitchen,LED Desk Lamp,1,1249,0,0,1249.0,UPI,Mobile,Social Media,Delivered,5.0,4.0,Returning
+ORD100205,2026-04-21,CUST1101,Aditya Sharma,Male,20,Chennai,Tamil Nadu,Beauty & Personal Care,Vitamin C Face Serum,1,999,0,0,999.0,Debit Card,Mobile,Organic Search,Delivered,5.0,4.0,Returning
+ORD100206,2026-04-28,CUST1092,Swathi Naidu,Female,39,Ahmedabad,Gujarat,Fashion,Running Shoes,1,6399,20,0,5119.2,Cash on Delivery,Mobile,Direct,Delivered,5.0,1.0,Returning
+ORD100207,2026-04-28,CUST1108,Pooja Patel,Female,27,Hyderabad,Telangana,Fashion,Running Shoes,3,6249,10,0,16872.3,Credit Card,Mobile,Organic Search,Delivered,4.0,5.0,Returning
+ORD100208,2026-04-30,CUST1083,Pooja Mehta,Female,25,Ahmedabad,Gujarat,Beauty & Personal Care,Perfume 100ml,1,3899,15,0,3314.15,Debit Card,Mobile,Organic Search,Delivered,8.0,,Returning
+ORD100209,2026-04-30,CUST1085,Ananya Mehta,Female,34,Delhi,Delhi,Sports & Fitness,Yoga Mat,2,949,20,0,1518.4,UPI,Mobile,Organic Search,Delivered,3.0,4.0,Returning
+ORD100210,2026-05-01,CUST1085,Ananya Mehta,Female,34,Delhi,Delhi,Home & Kitchen,Cotton Bedsheet Set,1,799,0,0,799.0,Cash on Delivery,Desktop,Social Media,Delivered,2.0,,Returning
+ORD100211,2026-05-03,CUST1051,Aditya Iyer,Male,37,Hyderabad,Telangana,Beauty & Personal Care,Beard Trimmer,1,1499,10,0,1349.1,Cash on Delivery,Mobile,Email Campaign,Returned,5.0,3.0,Returning
+ORD100212,2026-05-06,CUST1048,Vivaan Kulkarni,Male,28,Bengaluru,Karnataka,Grocery & Gourmet,Organic Honey 500g,1,299,10,49,318.1,Debit Card,Mobile,Organic Search,Delivered,3.0,,Returning
+ORD100213,2026-05-10,CUST1024,Manish Verma,Male,18,Mumbai,Maharashtra,Electronics,Bluetooth Speaker,1,2999,0,0,2999.0,Debit Card,Mobile,Organic Search,Delivered,4.0,5.0,Returning
+ORD100214,2026-05-11,CUST1071,Diya Sharma,Female,18,Kochi,Kerala,Electronics,Power Bank 20000mAh,1,2499,25,0,1874.25,Cash on Delivery,Mobile,Social Media,Delivered,3.0,4.0,Returning
+ORD100215,2026-05-12,CUST1032,Manish Patel,Male,21,Hyderabad,Telangana,Books & Stationery,Bestselling Novel,2,499,0,0,998.0,Credit Card,Mobile,Email Campaign,Delivered,5.0,4.0,Returning
+ORD100216,2026-05-12,CUST1027,Suresh Nair,Male,28,Hyderabad,Telangana,Fashion,Sunglasses,3,2999,25,0,6747.75,Debit Card,Desktop,Paid Ads,Delivered,3.0,5.0,Returning
+ORD100217,2026-05-13,CUST1064,Arjun Kulkarni,Male,29,Mumbai,Maharashtra,Beauty & Personal Care,Hair Dryer,1,2449,5,0,2326.55,UPI,Desktop,Referral,Delivered,5.0,5.0,Returning
+ORD100218,2026-05-16,CUST1043,Imran Naidu,Male,27,Bengaluru,Karnataka,Books & Stationery,Bestselling Novel,3,349,5,0,994.65,Debit Card,Mobile,Paid Ads,Delivered,3.0,5.0,Returning
+ORD100219,2026-05-17,CUST1022,Isha Khan,Female,32,Bengaluru,Karnataka,Beauty & Personal Care,Vitamin C Face Serum,3,599,15,0,1527.45,Debit Card,Mobile,Email Campaign,Delivered,2.0,5.0,New
+ORD100220,2026-05-19,CUST1089,Suresh Naidu,Male,34,Pune,Maharashtra,Books & Stationery,Fountain Pen Set,3,899,0,0,2697.0,UPI,Desktop,Social Media,Delivered,5.0,3.0,Returning
+ORD100221,2026-05-20,CUST1093,Manish Chowdhury,Male,39,Pune,Maharashtra,Electronics,Smartwatch,1,2199,0,0,2199.0,UPI,Mobile,Paid Ads,Delivered,3.0,4.0,Returning
+ORD100222,2026-05-25,CUST1016,Diya Das,Female,37,Kolkata,West Bengal,Home & Kitchen,Non-stick Cookware Set,1,4599,0,0,4599.0,Cash on Delivery,Desktop,Email Campaign,Delivered,3.0,3.0,Returning
+ORD100223,2026-05-26,CUST1002,Amit Chowdhury,Male,29,Pune,Maharashtra,Fashion,Running Shoes,1,4349,15,0,3696.65,Net Banking,Mobile,Direct,Delivered,4.0,4.0,New
+ORD100224,2026-05-27,CUST1034,Kavya Sharma,Female,22,Chandigarh,Chandigarh,Electronics,Wireless Mouse,1,1949,20,0,1559.2,UPI,Mobile,Social Media,Delivered,6.0,5.0,Returning
+ORD100225,2026-05-29,CUST1088,Isha Singh,Female,39,Pune,Maharashtra,Fashion,Sunglasses,2,1699,0,0,3398.0,Credit Card,Desktop,Direct,Delivered,2.0,5.0,New
+ORD100226,2026-05-30,CUST1091,Neha Khan,Female,45,Mumbai,Maharashtra,Books & Stationery,Bestselling Novel,1,349,15,49,345.65,UPI,Mobile,Direct,Delivered,3.0,5.0,New
+ORD100227,2026-05-30,CUST1014,Shreya Verma,Female,29,Pune,Maharashtra,Sports & Fitness,Badminton Racket,2,2699,5,0,5128.1,Cash on Delivery,Mobile,Organic Search,Delivered,3.0,3.0,Returning
+ORD100228,2026-06-02,CUST1085,Ananya Mehta,Female,34,Delhi,Delhi,Fashion,Men's Casual Shirt,1,899,10,0,809.1,Debit Card,Mobile,Organic Search,Delivered,4.0,5.0,Returning
+ORD100229,2026-06-03,CUST1013,Divya Patel,Female,32,Bengaluru,Karnataka,Fashion,Denim Jeans,1,2899,0,0,2899.0,Cash on Delivery,Mobile,Referral,Delivered,2.0,4.0,Returning
+ORD100230,2026-06-05,CUST1040,Vikram Naidu,Male,23,Bengaluru,Karnataka,Electronics,Wireless Mouse,2,649,10,0,1168.2,Cash on Delivery,Mobile,Paid Ads,Delivered,3.0,,New
+ORD100231,2026-06-07,CUST1110,Neha Nair,Female,41,Chennai,Tamil Nadu,Home & Kitchen,Cotton Bedsheet Set,1,1199,15,0,1019.15,Credit Card,Mobile,Paid Ads,Delivered,3.0,4.0,Returning
+ORD100232,2026-06-08,CUST1019,Pranav Nair,Male,38,Mumbai,Maharashtra,Fashion,Men's Casual Shirt,1,899,0,0,899.0,Cash on Delivery,Mobile,Organic Search,Delivered,5.0,4.0,New
+ORD100233,2026-06-10,CUST1015,Amit Mehta,Male,45,Hyderabad,Telangana,Grocery & Gourmet,Almonds 1kg,2,949,0,0,1898.0,Credit Card,Mobile,Social Media,Delivered,3.0,,Returning
+ORD100234,2026-06-12,CUST1045,Sneha Naidu,Female,43,Delhi,Delhi,Home & Kitchen,Mixer Grinder,1,3299,15,0,2804.15,UPI,Desktop,Organic Search,Delivered,3.0,4.0,Returning
+ORD100235,2026-06-13,CUST1068,Imran Rao,Male,25,Lucknow,Uttar Pradesh,Fashion,Women's Kurti,1,1449,0,0,1449.0,UPI,Mobile,Organic Search,Delivered,5.0,4.0,Returning
+ORD100236,2026-06-14,CUST1102,Manish Das,Male,33,Kochi,Kerala,Home & Kitchen,LED Desk Lamp,1,1249,0,0,1249.0,UPI,Mobile,Paid Ads,Cancelled,,,New
+ORD100237,2026-06-16,CUST1108,Pooja Patel,Female,27,Hyderabad,Telangana,Fashion,Running Shoes,1,5249,0,0,5249.0,Net Banking,Desktop,Paid Ads,Delivered,4.0,4.0,Returning
+ORD100238,2026-06-16,CUST1008,Suresh Verma,Male,28,Pune,Maharashtra,Grocery & Gourmet,Basmati Rice 5kg,3,849,15,0,2164.95,Debit Card,Mobile,Paid Ads,Delivered,5.0,4.0,Returning
+ORD100239,2026-06-17,CUST1014,Shreya Verma,Female,29,Pune,Maharashtra,Fashion,Denim Jeans,3,2599,0,0,7797.0,Cash on Delivery,Mobile,Email Campaign,Delivered,5.0,5.0,Returning
+ORD100240,2026-06-19,CUST1087,Anjali Reddy,Female,45,Hyderabad,Telangana,Electronics,Power Bank 20000mAh,1,1549,15,0,1316.65,Cash on Delivery,Mobile,Organic Search,Delivered,5.0,3.0,Returning
+ORD100241,2026-06-19,CUST1029,Rahul Kulkarni,Male,27,Pune,Maharashtra,Beauty & Personal Care,Vitamin C Face Serum,1,1199,0,0,1199.0,Credit Card,Desktop,Social Media,Returned,3.0,2.0,Returning
+ORD100242,2026-06-21,CUST1096,Karthik Khan,Male,36,Mumbai,Maharashtra,Fashion,Running Shoes,3,3049,0,0,9147.0,UPI,Mobile,Paid Ads,Delivered,3.0,3.0,Returning
+ORD100243,2026-06-21,CUST1072,Shreya Naidu,Female,27,Visakhapatnam,Andhra Pradesh,Home & Kitchen,Mixer Grinder,1,4699,25,0,3524.25,Cash on Delivery,Mobile,Referral,Delivered,5.0,5.0,Returning
+ORD100244,2026-06-24,CUST1013,Divya Patel,Female,32,Bengaluru,Karnataka,Electronics,Wireless Mouse,1,1949,20,0,1559.2,Cash on Delivery,Tablet,Organic Search,Delivered,5.0,4.0,Returning
+ORD100245,2026-06-25,CUST1090,Amit Gupta,Male,35,Bengaluru,Karnataka,Fashion,Denim Jeans,1,1349,0,0,1349.0,Debit Card,Mobile,Paid Ads,Returned,4.0,2.0,New
+ORD100246,2026-06-25,CUST1017,Shreya Nair,Female,27,Hyderabad,Telangana,Fashion,Men's Casual Shirt,1,599,0,0,599.0,UPI,Mobile,Referral,Delivered,3.0,,Returning
+ORD100247,2026-06-28,CUST1045,Sneha Naidu,Female,43,Delhi,Delhi,Grocery & Gourmet,Green Tea (100 bags),1,449,10,49,453.1,Credit Card,Mobile,Organic Search,Returned,5.0,2.0,Returning
+ORD100248,2026-07-01,CUST1062,Amit Iyer,Male,22,Bengaluru,Karnataka,Beauty & Personal Care,Beard Trimmer,1,2099,10,0,1889.1,Net Banking,Mobile,Organic Search,Cancelled,,,Returning
+ORD100249,2026-07-04,CUST1054,Sai Reddy,Male,27,Kochi,Kerala,Fashion,Sunglasses,1,3299,5,0,3134.05,Credit Card,Desktop,Organic Search,Delivered,7.0,3.0,Returning
+ORD100250,2026-07-06,CUST1075,Aarav Patel,Male,34,Delhi,Delhi,Books & Stationery,Notebook Pack (5),2,299,10,0,538.2,Net Banking,Desktop,Organic Search,Delivered,2.0,4.0,Returning
+ORD100251,2026-07-10,CUST1071,Diya Sharma,Female,18,Kochi,Kerala,Fashion,Denim Jeans,1,1799,5,0,1709.05,Credit Card,Desktop,Organic Search,Delivered,5.0,5.0,Returning
+ORD100252,2026-07-11,CUST1109,Lakshmi Khan,Female,30,Ahmedabad,Gujarat,Home & Kitchen,Non-stick Cookware Set,1,1399,0,0,1399.0,Debit Card,Mobile,Social Media,Delivered,6.0,4.0,Returning
+ORD100253,2026-07-12,CUST1110,Neha Nair,Female,41,Chennai,Tamil Nadu,Electronics,Bluetooth Speaker,1,1799,30,0,1259.3,Credit Card,Desktop,Direct,Delivered,2.0,1.0,Returning
+ORD100254,2026-07-12,CUST1056,Vikram Rao,Male,22,Kolkata,West Bengal,Beauty & Personal Care,Vitamin C Face Serum,3,799,0,0,2397.0,UPI,Mobile,Email Campaign,Delivered,2.0,4.0,New
+ORD100255,2026-07-13,CUST1011,Aditya Kulkarni,Male,36,Pune,Maharashtra,Home & Kitchen,LED Desk Lamp,1,1399,0,0,1399.0,Cash on Delivery,Desktop,Email Campaign,Delivered,5.0,3.0,Returning
+ORD100256,2026-07-13,CUST1080,Diya Nair,Female,21,Pune,Maharashtra,Fashion,Men's Casual Shirt,2,1549,20,0,2478.4,Cash on Delivery,Mobile,Social Media,Delivered,4.0,4.0,Returning
+ORD100257,2026-07-14,CUST1108,Pooja Patel,Female,27,Hyderabad,Telangana,Fashion,Sunglasses,1,2099,10,0,1889.1,Cash on Delivery,Mobile,Email Campaign,Delivered,3.0,4.0,Returning
+ORD100258,2026-07-17,CUST1033,Rohan Naidu,Male,19,Chennai,Tamil Nadu,Home & Kitchen,Mixer Grinder,1,5349,20,0,4279.2,Credit Card,Mobile,Social Media,Delivered,5.0,2.0,Returning
+ORD100259,2026-07-17,CUST1049,Isha Kulkarni,Female,23,Bengaluru,Karnataka,Beauty & Personal Care,Perfume 100ml,1,2249,0,0,2249.0,Cash on Delivery,Mobile,Organic Search,Delivered,5.0,3.0,Returning
+ORD100260,2026-07-18,CUST1046,Meera Verma,Female,35,Mumbai,Maharashtra,Sports & Fitness,Yoga Mat,1,699,25,0,524.25,Debit Card,Tablet,Direct,Delivered,5.0,,Returning
+ORD100261,2026-07-18,CUST1007,Shreya Iyer,Female,35,Delhi,Delhi,Electronics,Power Bank 20000mAh,1,1699,0,0,1699.0,Credit Card,Mobile,Social Media,Delivered,5.0,3.0,Returning
+ORD100262,2026-07-19,CUST1074,Meera Rao,Female,18,Jaipur,Rajasthan,Electronics,Bluetooth Speaker,1,5799,10,0,5219.1,UPI,Mobile,Referral,Delivered,6.0,2.0,Returning
+ORD100263,2026-07-20,CUST1036,Priya Mehta,Female,34,Delhi,Delhi,Electronics,Wireless Earbuds,1,2749,0,0,2749.0,Wallet,Tablet,Direct,Delivered,2.0,4.0,New
+ORD100264,2026-07-22,CUST1086,Fatima Das,Female,18,Delhi,Delhi,Fashion,Men's Casual Shirt,1,699,0,0,699.0,UPI,Mobile,Social Media,Cancelled,,,New
+ORD100265,2026-07-23,CUST1090,Amit Gupta,Male,35,Bengaluru,Karnataka,Electronics,Power Bank 20000mAh,1,1649,0,0,1649.0,UPI,Mobile,Email Campaign,Delivered,4.0,4.0,Returning
+ORD100266,2026-07-24,CUST1089,Suresh Naidu,Male,34,Pune,Maharashtra,Fashion,Sunglasses,1,3299,10,0,2969.1,UPI,Desktop,Organic Search,Delivered,2.0,4.0,Returning
+ORD100267,2026-07-27,CUST1044,Imran Chowdhury,Male,46,Lucknow,Uttar Pradesh,Electronics,Smartwatch,1,13749,25,0,10311.75,Cash on Delivery,Mobile,Social Media,Delivered,4.0,4.0,Returning
+ORD100268,2026-08-01,CUST1033,Rohan Naidu,Male,19,Chennai,Tamil Nadu,Beauty & Personal Care,Vitamin C Face Serum,1,449,0,49,498.0,Credit Card,Desktop,Organic Search,Delivered,4.0,5.0,Returning
+ORD100269,2026-08-02,CUST1083,Pooja Mehta,Female,25,Ahmedabad,Gujarat,Grocery & Gourmet,Organic Honey 500g,1,349,0,49,398.0,Debit Card,Mobile,Social Media,Delivered,5.0,5.0,Returning
+ORD100270,2026-08-06,CUST1088,Isha Singh,Female,39,Pune,Maharashtra,Sports & Fitness,Dumbbell Set 10kg,2,1499,5,0,2848.1,UPI,Mobile,Organic Search,Delivered,5.0,5.0,Returning
+ORD100271,2026-08-06,CUST1053,Pranav Das,Male,20,Pune,Maharashtra,Books & Stationery,Notebook Pack (5),4,449,0,0,1796.0,UPI,Mobile,Social Media,Delivered,3.0,4.0,Returning
+ORD100272,2026-08-09,CUST1097,Neha Reddy,Female,32,Indore,Madhya Pradesh,Beauty & Personal Care,Hair Dryer,1,1249,5,0,1186.55,Credit Card,Desktop,Email Campaign,Delivered,6.0,4.0,Returning
+ORD100273,2026-08-09,CUST1014,Shreya Verma,Female,29,Pune,Maharashtra,Home & Kitchen,Air Fryer,1,4649,15,0,3951.65,UPI,Mobile,Referral,Delivered,2.0,3.0,Returning
+ORD100274,2026-08-10,CUST1095,Ananya Verma,Female,43,Hyderabad,Telangana,Beauty & Personal Care,Perfume 100ml,1,1549,10,0,1394.1,Net Banking,Desktop,Direct,Delivered,5.0,3.0,Returning
+ORD100275,2026-08-11,CUST1011,Aditya Kulkarni,Male,36,Pune,Maharashtra,Home & Kitchen,Mixer Grinder,1,5349,10,0,4814.1,Cash on Delivery,Mobile,Social Media,Delivered,3.0,4.0,Returning
+ORD100276,2026-08-12,CUST1015,Amit Mehta,Male,45,Hyderabad,Telangana,Grocery & Gourmet,Basmati Rice 5kg,1,849,30,0,594.3,Cash on Delivery,Desktop,Paid Ads,Delivered,5.0,4.0,Returning
+ORD100277,2026-08-14,CUST1059,Manish Reddy,Male,26,Ahmedabad,Gujarat,Beauty & Personal Care,Vitamin C Face Serum,1,849,0,0,849.0,Cash on Delivery,Mobile,Email Campaign,Delivered,5.0,5.0,Returning
+ORD100278,2026-08-15,CUST1008,Suresh Verma,Male,28,Pune,Maharashtra,Electronics,Wireless Earbuds,1,2899,0,0,2899.0,UPI,Mobile,Social Media,Delivered,3.0,4.0,Returning
+ORD100279,2026-08-16,CUST1007,Shreya Iyer,Female,35,Delhi,Delhi,Home & Kitchen,Non-stick Cookware Set,2,1299,0,0,2598.0,UPI,Desktop,Social Media,Delivered,4.0,4.0,Returning
+ORD100280,2026-08-17,CUST1001,Divya Khan,Female,40,Jaipur,Rajasthan,Beauty & Personal Care,Vitamin C Face Serum,1,349,10,49,363.1,Wallet,Mobile,Paid Ads,Delivered,4.0,5.0,Returning
+ORD100281,2026-08-18,CUST1047,Pooja Nair,Female,19,Kochi,Kerala,Home & Kitchen,Mixer Grinder,1,5949,20,0,4759.2,Debit Card,Mobile,Direct,Delivered,6.0,,Returning
+ORD100282,2026-08-20,CUST1085,Ananya Mehta,Female,34,Delhi,Delhi,Books & Stationery,Notebook Pack (5),1,249,5,49,285.55,Cash on Delivery,Mobile,Email Campaign,Delivered,2.0,4.0,Returning
+ORD100283,2026-08-21,CUST1006,Isha Gupta,Female,30,Visakhapatnam,Andhra Pradesh,Electronics,Wireless Earbuds,1,1699,0,0,1699.0,Debit Card,Desktop,Paid Ads,Delivered,8.0,,Returning
+ORD100284,2026-08-25,CUST1071,Diya Sharma,Female,18,Kochi,Kerala,Electronics,Power Bank 20000mAh,1,1799,10,0,1619.1,Debit Card,Mobile,Referral,Delivered,3.0,3.0,Returning
+ORD100285,2026-09-01,CUST1089,Suresh Naidu,Male,34,Pune,Maharashtra,Electronics,Wireless Earbuds,1,3749,0,0,3749.0,Cash on Delivery,Mobile,Organic Search,Delivered,5.0,3.0,Returning
+ORD100286,2026-09-02,CUST1017,Shreya Nair,Female,27,Hyderabad,Telangana,Home & Kitchen,Cotton Bedsheet Set,1,2449,15,0,2081.65,UPI,Mobile,Paid Ads,Delivered,3.0,,Returning
+ORD100287,2026-09-03,CUST1014,Shreya Verma,Female,29,Pune,Maharashtra,Home & Kitchen,Non-stick Cookware Set,1,4199,5,0,3989.05,Cash on Delivery,Mobile,Organic Search,Delivered,4.0,4.0,Returning
+ORD100288,2026-09-03,CUST1093,Manish Chowdhury,Male,39,Pune,Maharashtra,Books & Stationery,Bestselling Novel,1,249,10,49,273.1,UPI,Mobile,Direct,Delivered,3.0,,Returning
+ORD100289,2026-09-05,CUST1089,Suresh Naidu,Male,34,Pune,Maharashtra,Fashion,Running Shoes,1,6399,15,0,5439.15,Cash on Delivery,Desktop,Paid Ads,Delivered,5.0,4.0,Returning
+ORD100290,2026-09-07,CUST1060,Karthik Rao,Male,27,Chennai,Tamil Nadu,Grocery & Gourmet,Green Tea (100 bags),3,549,0,0,1647.0,Credit Card,Desktop,Social Media,Cancelled,,,Returning
+ORD100291,2026-09-11,CUST1089,Suresh Naidu,Male,34,Pune,Maharashtra,Beauty & Personal Care,Hair Dryer,1,899,10,0,809.1,UPI,Tablet,Email Campaign,Delivered,2.0,5.0,Returning
+ORD100292,2026-09-13,CUST1011,Aditya Kulkarni,Male,36,Pune,Maharashtra,Electronics,Wireless Mouse,1,599,10,0,539.1,Credit Card,Desktop,Social Media,Delivered,3.0,4.0,Returning
+ORD100293,2026-09-14,CUST1041,Neha Gupta,Female,39,Ahmedabad,Gujarat,Beauty & Personal Care,Hair Dryer,1,2999,0,0,2999.0,Debit Card,Mobile,Paid Ads,Delivered,5.0,5.0,Returning
+ORD100294,2026-09-14,CUST1082,Vikram Joshi,Male,18,Hyderabad,Telangana,Fashion,Running Shoes,1,5999,10,0,5399.1,Cash on Delivery,Mobile,Email Campaign,Delivered,5.0,4.0,Returning
+ORD100295,2026-09-16,CUST1026,Nikhil Chowdhury,Male,38,Pune,Maharashtra,Electronics,Power Bank 20000mAh,1,1449,0,0,1449.0,Cash on Delivery,Desktop,Organic Search,Shipped,,,Returning
+ORD100296,2026-09-16,CUST1084,Ananya Reddy,Female,26,Chennai,Tamil Nadu,Grocery & Gourmet,Green Tea (100 bags),3,399,0,0,1197.0,UPI,Mobile,Paid Ads,Processing,,,Returning
+ORD100297,2026-09-18,CUST1054,Sai Reddy,Male,27,Kochi,Kerala,Electronics,Wireless Earbuds,1,1499,0,0,1499.0,Cash on Delivery,Desktop,Paid Ads,Shipped,,,Returning
+ORD100298,2026-09-19,CUST1083,Pooja Mehta,Female,25,Ahmedabad,Gujarat,Home & Kitchen,Cotton Bedsheet Set,1,1049,10,0,944.1,Cash on Delivery,Desktop,Direct,Processing,,,Returning
+ORD100299,2026-09-20,CUST1049,Isha Kulkarni,Female,23,Bengaluru,Karnataka,Fashion,Sunglasses,2,1999,0,0,3998.0,Debit Card,Tablet,Paid Ads,Shipped,,,Returning
+ORD100300,2026-09-20,CUST1037,Amit Rao,Male,30,Delhi,Delhi,Electronics,Bluetooth Speaker,1,4049,5,0,3846.55,UPI,Mobile,Organic Search,Processing,,,Returning
