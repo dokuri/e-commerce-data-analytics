@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 E-Commerce Sales & Customer Analytics Dashboard
 
 A single-file **Streamlit + Plotly** dashboard that turns an orders CSV into sales trends, product performance,
@@ -103,3 +104,6 @@ from the sidebar, or replace `data/ecommerce_sales.csv`. Dates must be `YYYY-MM-
 ## 7. Troubleshooting
 * `ModuleNotFoundError` → run the `pip install` line in section 2 (inside your virtual environment, if you use one).
 * Blank charts → your sidebar filters exclude every order; clear them.
+=======
+# e-commerce-data-analytics
+>>>>>>> aae87d4e98bd21ad66e8911b97588b0df022dfdb
